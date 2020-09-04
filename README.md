@@ -1,3 +1,5 @@
 # CV-Aiste-Noreikaite
 
-Web-CV, designed and programmed by Aiste N
+Full-list of experiences and projects I participated in.
+
+Site published at https://aist01.github.io/CV-Aiste-Noreikaite/.
